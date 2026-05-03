@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 # Thamires Morais
@@ -35,9 +33,10 @@ I care about the small things: the button label, the empty state, the loading be
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
 | `tms-5.github.io` | My personal portfolio with multilingual content, animated sections, project cards and resume timeline. | React, i18next, Tailwind CSS | [site](https://tms-5.github.io/) / [repo](https://github.com/tms-5/tms-5.github.io) |
-| `ana-giullia-portfolio` | A personal portfolio for Ana Giullia, presenting dentistry and data analysis paths in one experience. | HTML, CSS, JavaScript | [site](https://tms-5.github.io/ana-giullia-portfolio/) / [repo](https://github.com/tms-5/ana-giullia-portfolio) |
+| `ana-giullia-portfolio` | A personal portfolio for Ana Giullia, presenting dentistry and data analysis paths in one experience. | Next.js, Tailwind CSS | [site](https://tms-5.github.io/ana-giullia-portfolio/) / [repo](https://github.com/tms-5/ana-giullia-portfolio) |
 | `ronaldo-portfolio` | Responsive landing page for a nutritionist, focused on professional presentation, services and contact. | Vue, Tailwind CSS, Vercel | [repo](https://github.com/tms-5/ronaldo-portfolio) |
 | `interface-stopwatch` | Lightweight daily meeting facilitator for agile teams with local persistence. | Vue, localStorage | [repo](https://github.com/tms-5/interface-stopwatch) |
+| `Edu-p` | Personal portfolio for Eduardo, built to present projects, skills and professional experience. | Vue, TypeScript, Tailwind CSS | [site](https://edu-p.github.io/) / [repo](https://github.com/tms-5/Edu-p) |
 | `bingo` | Interactive bingo project, built as a playful Vue interface. | Vue | [repo](https://github.com/tms-5/bingo) |
 | `studying-react` | Study space for React and TypeScript experiments. | React, TypeScript | [repo](https://github.com/tms-5/studying-react) |
 | `intelli-teach` | Svelte project exploring front-end application ideas. | Svelte | [repo](https://github.com/tms-5/intelli-teach) |
